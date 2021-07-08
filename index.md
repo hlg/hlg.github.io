@@ -1,6 +1,6 @@
 % hlg@GitHub
 
-Projects solving spatial problems, mainly in the area of architecture and construction plus some fun and artistic gimmicks 
+Projects around spatial problems, mainly in the area of architecture and construction plus some fun and artistic gimmicks 
 
 Recent projects
 =================
